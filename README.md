@@ -2,7 +2,10 @@
 History Channel m3u8 extractor from TecnoTV
 # HOW-TO
 * create, copy code and run an ANT application with NetBeans IDE
-
+# TODO
+* UI
+* code improvement
+* add more channels
 # Disclaimer
 <b>I am not responsible for any use that may be made through action or inaction. 
 <br>
